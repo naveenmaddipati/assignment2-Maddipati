@@ -15,3 +15,10 @@ The nearest airport to The Vintage and Classic Car Museum is Maharana Pratap Air
 
 2. Taxi will take around 18mins and will cost 120rs.
 3. The bus (68 bus) from will take around 1hr and will cost 50rs.
+
+
+* Other locations to visit :
+    * City Palace
+    * Sajjangarh Palace
+    * Jag Mandir Palace
+    * Jagdish Temple
