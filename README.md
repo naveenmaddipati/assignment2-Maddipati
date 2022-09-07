@@ -37,3 +37,19 @@ The nearest airport to The Vintage and Classic Car Museum is Maharana Pratap Air
 | 4. Goa          |Cola Goa Resorts| 3 days        |
 
 ---
+---
+<br>
+
+## Inspiring Quotes
+
+> ***"Experience is a hard teacher because she gives the test first, the lesson afterwards."***
+
+-- Vernon Sanders Law
+
+<br>
+
+>***"To know how much there is to know is the beginning of learning to live."***
+
+-- Dorothy West
+
+---
