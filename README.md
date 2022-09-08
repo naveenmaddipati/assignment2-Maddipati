@@ -37,10 +37,10 @@ The nearest airport to The Vintage and Classic Car Museum is Maharana Pratap Air
 | 4. Goa          |Cola Goa Resorts| 3 days        |
 
 ---
----
+
 <br>
 
-## Inspiring Quotes
+## motivational Quotes
 
 > ***"Experience is a hard teacher because she gives the test first, the lesson afterwards."***
 
@@ -53,6 +53,9 @@ The nearest airport to The Vintage and Classic Car Museum is Maharana Pratap Air
 -- Dorothy West
 
 ---
+
+## code fancing section: <br>
+
 >why is Background image will not display and header does not adjust for reduced screen ?
 
 ANSWER :<https://stackoverflow.com/questions/73641478/background-image-will-not-display-and-header-does-not-adjust-for-reduced-screen>
